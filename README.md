@@ -13,7 +13,6 @@ Fondamentale è saper sincronizzare il nostro lavoro locale con un repository re
 `git remote add <nome› <url>`
 
 ### Caricare il lavoro locale sul repository remoto
-
 `git push cremote› cramo-locale›`
 
 ### Aggiornare la copia locale del repository, allineandola con la versione remota
