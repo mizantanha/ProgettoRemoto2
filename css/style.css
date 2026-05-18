@@ -1,11 +1,20 @@
-.title{
+@import url('https://fonts.googleapis.com/css2?family=Almendra+SC&display=swap');
+
+.title {
     text-align: center;
     color: blue;
     font-size: 40px;
 }
-.carousel-img{
+
+.carousel-img {
     object-fit: cover;
     height: 500px;
     width: 600px;
     margin: 0 auto;
+}
+
+.font {
+    font-family: "Almendra SC", serif;
+    font-weight: 400;
+    font-style: normal;
 }
